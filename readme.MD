@@ -38,25 +38,6 @@ COMPRIFY is a next-gen smart shopping platform combining **IoT**, **Computer Vis
 
 ---
 
-## 🔐 Demo Credentials
-
-### 👑 Admin
-
-- **Username**: `admin@demo.com`
-- **Password**: `Admin@123`
-
-### 🧑‍🏫 Staff
-
-- **Username**: `staff@demo.com`
-- **Password**: `Staff@123`
-
-### 🧑‍🎓 Student / Customer
-
-- **Username**: `parent@demo.com`
-- **Password**: `Parent@123`
-
----
-
 ## 🧩 Features
 
 ### 🛍️ Online Shopping
@@ -194,44 +175,4 @@ COMPRIFY proved that it’s possible to revolutionize the retail ecosystem using
 
 > MOBILE APP (FLUTTER)
 
-![Comprify App](<assets/app/a(2).png>)
-![Comprify App](<assets/app/a(1).png>)
-![Comprify App](<assets/app/a(3).png>)
-![Comprify App](<assets/app/a(4).png>)
-![Comprify App](<assets/app/a(5).png>)
-![Comprify App](<assets/app/a(6).png>)
-![Comprify App](<assets/app/a(7).png>)
-![Comprify App](<assets/app/a(8).png>)
-![Comprify App](<assets/app/a(9).png>)
-![Comprify App](<assets/app/a(10).png>)
-![Comprify App](<assets/app/a(11).png>)
-![Comprify App](<assets/app/a(12).png>)
-![Comprify App](<assets/app/a(13).png>)
-![Comprify App](<assets/app/a(14).png>)
-![Comprify App](<assets/app/a(15).png>)
-![Comprify App](<assets/app/a(15).png>)
-![Comprify App](<assets/app/a(17).png>)
-![Comprify App](<assets/app/a(18).png>)
-![Comprify App](<assets/app/a(19).png>)
-![Comprify App](<assets/app/a(20).png>)
-![Comprify App](<assets/app/a(21).png>)
-![Comprify App](<assets/app/a(22).png>)
-![Comprify App](<assets/app/a(23).png>)
-![Comprify App](<assets/app/a(24).png>)
-![Comprify App](<assets/app/a(25).png>)
-![Comprify App](<assets/app/a(26).png>)
-![Comprify App](<assets/app/a(27).png>)
-![Comprify App](<assets/app/a(28).png>)
-![Comprify App](<assets/app/a(29).png>)
-![Comprify App](<assets/app/a(30).png>)
-![Comprify App](<assets/app/a(31).png>)
-![Comprify App](<assets/app/a(32).png>)
-![Comprify App](<assets/app/a(33).png>)
-![Comprify App](<assets/app/a(34).png>)
-![Comprify App](<assets/app/a(35).png>)
-![Comprify App](<assets/app/a(36).png>)
-![Comprify App](<assets/app/a(37).png>)
-![Comprify App](<assets/app/a(38).png>)
-![Comprify App](<assets/app/a(39).png>)
-![Comprify App](<assets/app/a(40).png>)
-![Comprify App](<assets/app/a(41).png>)
+<table> <tr> <td><img src="assets/app/a(1).png" width="180"/></td> <td><img src="assets/app/a(2).png" width="180"/></td> <td><img src="assets/app/a(3).png" width="180"/></td> <td><img src="assets/app/a(4).png" width="180"/></td> </tr> <tr> <td><img src="assets/app/a(5).png" width="180"/></td> <td><img src="assets/app/a(6).png" width="180"/></td> <td><img src="assets/app/a(7).png" width="180"/></td> <td><img src="assets/app/a(8).png" width="180"/></td> </tr> <tr> <td><img src="assets/app/a(9).png" width="180"/></td> <td><img src="assets/app/a(10).png" width="180"/></td> <td><img src="assets/app/a(11).png" width="180"/></td> <td><img src="assets/app/a(12).png" width="180"/></td> </tr> <tr> <td><img src="assets/app/a(13).png" width="180"/></td> <td><img src="assets/app/a(14).png" width="180"/></td> <td><img src="assets/app/a(15).png" width="180"/></td> <td><img src="assets/app/a(17).png" width="180"/></td> </tr> <tr> <td><img src="assets/app/a(18).png" width="180"/></td> <td><img src="assets/app/a(19).png" width="180"/></td> <td><img src="assets/app/a(20).png" width="180"/></td> <td><img src="assets/app/a(21).png" width="180"/></td> </tr> <tr> <td><img src="assets/app/a(22).png" width="180"/></td> <td><img src="assets/app/a(23).png" width="180"/></td> <td><img src="assets/app/a(24).png" width="180"/></td> <td><img src="assets/app/a(25).png" width="180"/></td> </tr> <tr> <td><img src="assets/app/a(26).png" width="180"/></td> <td><img src="assets/app/a(27).png" width="180"/></td> <td><img src="assets/app/a(28).png" width="180"/></td> <td><img src="assets/app/a(29).png" width="180"/></td> </tr> <tr> <td><img src="assets/app/a(30).png" width="180"/></td> <td><img src="assets/app/a(31).png" width="180"/></td> <td><img src="assets/app/a(32).png" width="180"/></td> <td><img src="assets/app/a(33).png" width="180"/></td> </tr> <tr> <td><img src="assets/app/a(34).png" width="180"/></td> <td><img src="assets/app/a(35).png" width="180"/></td> <td><img src="assets/app/a(36).png" width="180"/></td> <td><img src="assets/app/a(37).png" width="180"/></td> </tr> <tr> <td><img src="assets/app/a(38).png" width="180"/></td> <td><img src="assets/app/a(39).png" width="180"/></td> <td><img src="assets/app/a(40).png" width="180"/></td> <td><img src="assets/app/a(41).png" width="180"/></td> </tr> </table>
