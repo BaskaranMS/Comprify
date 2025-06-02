@@ -26,7 +26,7 @@ COMPRIFY is a next-gen smart shopping platform combining **IoT**, **Computer Vis
 
 ---
 
-## 🔗 Repositories
+## 🔗 For Repository access or Collobration Kindly Mail me!
 
 - 🖥️ [Frontend GitHub](#)
 - 🛒 [POS Web GitHub](#)
